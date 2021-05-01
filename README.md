@@ -1,5 +1,10 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Reason
+
+I've worked with golang before but i want get better undrstanding of go
+
+
 ## Contents
 
 * [Rules](rules.md)
